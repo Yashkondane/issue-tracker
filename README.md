@@ -62,7 +62,13 @@ http://localhost:8080
 
 ## Screenshots
 
-[Screenshots of the working application would be included here]
+![Screenshot 2025-04-18 123640](https://github.com/user-attachments/assets/0998bd77-7245-43f4-aa7d-ddceb97ce4c0)
+![Screenshot 2025-04-18 123805](https://github.com/user-attachments/assets/91c32e0a-9c5d-433a-9503-5fe17ee6d865)
+![Screenshot 2025-04-18 123829](https://github.com/user-attachments/assets/58e53255-2587-4cd3-bf3c-75f9778bfbc5)
+![Screenshot 2025-04-18 123844](https://github.com/user-attachments/assets/746b8088-7473-4f4b-ba96-ced6158a496d)
+![Screenshot 2025-04-18 123854](https://github.com/user-attachments/assets/efbea65d-a01d-458f-8da1-e023b8c5c8af)
+![Screenshot 2025-04-18 124415](https://github.com/user-attachments/assets/dd057f8a-aaa1-4853-b4af-c17199910401)
+
 
 ## Evaluation Criteria Met
 
