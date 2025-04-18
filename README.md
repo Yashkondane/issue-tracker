@@ -40,7 +40,7 @@ git clone <repository-url>
 
 2. Navigate to the project directory:
 ```
-cd issue-tracker
+cd limited-pdf-project-main
 ```
 
 3. Install dependencies:
